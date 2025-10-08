@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I'm Oshadee Bindiya.<br>🎓I'm currently a 2nd-year undergraduate at University of Westminster (IIT)
+I'm Oshadee Bindiya.<br>I'm currently a 2nd-year undergraduate at University of Westminster (IIT) 🎓
 
 
 # 💻 Tech Stack:
